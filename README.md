@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-rote-kleid/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Das rote Kleid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-rote-kleid/) |
+| **Get License** | [Music Rights & Licensing for Das rote Kleid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-rote-kleid/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Du trägst das rote Kleid, die halbe Stadt steht still
+> Ich trete auf das Gas, weil ich nur zu dir will
+> Rauch liegt in der Luft, der Bass drückt durch die Nacht
+> Nur ein Blick von dir und der Teufel ist erwacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
