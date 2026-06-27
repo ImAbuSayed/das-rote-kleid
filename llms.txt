@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-rote-kleid/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Das rote Kleid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-rote-kleid/) |
+| **Get License** | [Commercial Licensing for Das rote Kleid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-rote-kleid/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4493)
 
 ---
 
