@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das rote Kleid
+
+This log tracks the cryptographic history and versioning for the song **Das rote Kleid** (das-rote-kleid).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:17:22.550284 | `v1` | `aa7a8785a610ee407985a77f2715a90d9265a4262142c0abb73779b575fa8ac5` | `73cdafeb2c020044c5e44466286615e0d86c4cafac4f124b7c224fc1480e7bf0` | `2026-06-27_das-rote-kleid-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
